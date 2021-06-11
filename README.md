@@ -14,4 +14,4 @@ pLEASE FORK THIS REPO
 =======
 ##Copyright
 Git.training
->>>>>>> simple-changes
+All rights reserved.
